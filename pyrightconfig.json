@@ -1,0 +1,11 @@
+{
+  "include": ["src/example"],
+  "executionEnvironments": [
+    {
+      "root": "src",
+    },
+    {
+      "root": "lib"
+    }
+  ]
+}
